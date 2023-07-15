@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viswa</h1>
-<h3 align="center">Interested in Evolution in Technology</h3>
+<h3 align="center">Interested in Evolution Of Technology</h3>
 
 - 🌱 I’m currently learning **C++, Unreal**
 
